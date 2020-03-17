@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1583143854 source:e:\cells\code\cz1007\week_9\lab_tut\lab_tut_linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1583145925 source:e:\cells\code\cz1007\week_10\lab_tut_linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+
